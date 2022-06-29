@@ -15,4 +15,4 @@ html css 수업시간 숙제 6월 30일까지
 + https://docs.google.com/presentation/d/1RZ_clB4ZwaQt53KtyxEfjbNVhnv67VdQ/edit?usp=sharing&ouid=110486823165423773981&rtpof=true&sd=true;
 
 
-[^^ 테슬라페이지 숙제 링크 ^^]()
+[^^ 테슬라페이지 숙제 링크 ^^](https://lgd12345.github.io/Tesla/)
