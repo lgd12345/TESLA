@@ -1,0 +1,48 @@
+.footer {
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer ul {
+  width: 80%;
+  margin: auto;
+  padding: 0 0 90px 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.footer ul li {
+  margin: 0 1rem;
+  margin-top: 1rem;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.footer ul li a {
+  color: whitesmoke;
+  font-size: 1.2rem;
+}
+
+.footer .one {
+  text-transform: capitalize;
+  color: whitesmoke;
+  font-size: 1px;
+  margin: auto;
+  padding: 20px 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+/* 사업자정보확인,인터넷주소에 밑줄과 커서 포인터*/
+span.line {
+  text-decoration-line: underline;
+}
+
+span.line:hover {
+  cursor: pointer;
+}
